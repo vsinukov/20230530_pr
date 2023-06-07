@@ -87,4 +87,8 @@
     font-size: 48px;
     line-height: 64px;
  }
+ .linknodec{
+    text-decoration: none;
+    color: white;
+}
 
