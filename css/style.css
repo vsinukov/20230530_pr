@@ -1,0 +1,61 @@
+@font-face{
+    font-family: playfairdisplay_b700;
+    src: url(../fonts/PlayfairDisplay-Bold.ttf);
+}
+.bg_img{
+    background-image: url(../image/Ellipse1.png);
+    background-position-x: right;
+    background-repeat: no-repeat; 
+    background-size: 60%;  
+     
+
+}
+.bg_img1{
+    background-image: url(../image/Ellipse2.png);
+    background-position-x: right;
+    background-repeat: no-repeat; 
+    background-size: 55%;   
+
+}
+.bg_img2{
+    background-image: url(../image/creating.png);
+    background-position-x: right;
+    background-repeat: no-repeat; 
+    background-size: 45%;  
+    margin-right: 50px;
+    height: 100%;
+
+}
+.ff_b700{
+    font-family: playfairdisplay_b700;
+    font-size: 90px;
+    color: #094B72;
+}
+.col_pro{
+    color: #094B72;
+}
+.bg_col_pro{
+   background-color: #094B72;
+}
+.bg_col_pro_l{
+    background-color: #E7F6FF;
+ }
+ .w-40{
+    width: 40%;
+ }
+ .w-30{
+    width: 30%;
+ }
+ .mt-100{
+    margin-top: 100px;
+ }
+ .pt-100{
+    margin-top: 100px;
+ }
+ .tiara_log{
+    margin-left: calc(60%);
+    text-align: center;
+    padding: 15px;
+    margin-bottom: -10px;       
+ }
+
